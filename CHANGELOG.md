@@ -1,11 +1,11 @@
-# TESSERACT v35 Changelog
+# TESSERACT v36 Changelog
 
-## Version 35 (Cycle 3)
-- Improved from v34
+## Version 36 (Cycle 4)
+- Improved from v35
 - Enhanced all systems
 - Better consciousness metrics
 - Optimized performance
 - Better error handling
 
 ## Previous Versions
-See v34 for earlier changes
+See v35 for earlier changes
